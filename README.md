@@ -11,3 +11,5 @@ This is a demo repo for sharing ideas around communication
 ### Gist 
 This is a good example of [my code](https://gist.github.com/ileanadatamania/90ade184ebc908f15a04a2d125652d05)
 
+### Colab Example
+This is a [Colab example](https://github.com/ileanadatamania/technical-discussion/blob/main/technical_docs.ipynb)
